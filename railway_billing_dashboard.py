@@ -6,8 +6,6 @@ DBMS Project  |  Python + SQLite + Tkinter
 Tables (one-to-many chain):
     Zones (1) ---< Train_Services (1) ---< Stop_Allocations
 
-Run in VS Code (Windows):   python railway_billing_dashboard.py
-"""
 
 import sqlite3
 import tkinter as tk
