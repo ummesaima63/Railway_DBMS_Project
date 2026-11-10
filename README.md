@@ -3,6 +3,11 @@
 ## Project Overview
 The Railway Network & Train Stop Billing Dashboard is a database management system developed using Python and SQLite. It helps manage railway zones, train services, stop allocations and fare details through a graphical user interface.
 
+## Problem Statement
+Traditional railway record management using spreadsheets can lead to data duplication, inconsistent records and difficulties in maintaining relationships between railway zones, train services and station allocations.
+
+The project aims to develop a relational database management system that organizes railway information, manages fare details and allows users to insert, view and delete records efficiently through a graphical user interface.
+
 ## Technologies Used
 - Python
 - SQLite
