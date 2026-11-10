@@ -5,6 +5,7 @@ DBMS Project  |  Python + SQLite + Tkinter
 
 Tables (one-to-many chain):
     Zones (1) ---< Train_Services (1) ---< Stop_Allocations
+"""
 
 
 import sqlite3
