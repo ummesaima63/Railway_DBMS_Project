@@ -23,9 +23,7 @@ input_vars = {}     # StringVar objects for the four insert fields
 
 
 # =====================================================================
-# SECTION 1 - DATABASE LAYER (the DBMS part)
-# Style follows the professor's PDF: connect -> cursor -> execute(sql, params)
-# -> commit, with small helper functions perform_select / perform_write.
+# SECTION 1 - DATABASE LAYER 
 # =====================================================================
 
 def get_connection(db_name=DB_NAME):
